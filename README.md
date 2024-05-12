@@ -10,7 +10,7 @@ Asegúrate de tener instalados Docker y Docker Compose en tu máquina antes de u
 ### Configuración inicial
 1. Clona este repositorio en tu máquina local
 ```bash
-git clone [url]
+git clone https://github.com/MinAnnie/angular-docker-template.git
 ```
 
 2. Navega al directorio del proyecto
